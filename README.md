@@ -84,3 +84,8 @@ Catatan: **Aplikasi ini tidak mendukung proses jual beli, pemesanan, negosiasi, 
 Seluruh data yang ditampilkan bertujuan sebagai **media informasi, dokumentasi, dan edukasi pertanian sayur desa**.
 
 ---
+
+## Tautan Proyek TaniDesa
+- 🌐 Website Aplikasi: [Klik di sini](https://bejewelled-creponne-a49d02.netlify.app/)
+- 📁 Google Drive (File APK Aplikasi): [Klik di sini](https://drive.google.com/drive/folders/1aBgDK6HS7THtPoEFpDjCLJuoNLWVuoxr?usp=sharing)
+
